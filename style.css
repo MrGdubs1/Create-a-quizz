@@ -1,0 +1,41 @@
+html {
+  background: url(/img/fnaf-chromebook-wallpaper.jpg) fixed no-repeat center;
+  background-size: cover;
+}
+
+body {
+  width: 800px;
+  margin: 50px auto;
+  padding: 50px;
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 50px;
+  border-radius: 30px;
+}
+img {
+  border-radius: 20px;
+}
+h2 {
+  color: rgb(207, 93, 47);
+}
+
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-variant: small-caps;
+  color: aquamarine;
+}
+ul {
+  color: rgb(245, 245, 3);
+}
+button {
+  background-color: yellow;
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+}
